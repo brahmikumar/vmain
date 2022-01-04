@@ -1,3 +1,6 @@
 [submodule "vui"]
 	path = vui
 	url = https://github.com/brahmikumar/vui.git
+[submodule "lib/vui"]
+	path = lib/vui
+	url = https://github.com/brahmikumar/vui.git
